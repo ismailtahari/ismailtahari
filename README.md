@@ -1,21 +1,137 @@
-# 💫 About Me:
-👋 Hi, I’m @ismail tahari<br><br>I am a Software developer passionate about building scalable web applications and solving complex architectural problems. With a background in FinTech, I focus on writing clean, maintainable code and mentoring junior developers.<br><br>🔭 Currently working on: Quivexo<br><br>🌱 Learning: System design<br><br>💬 Ask me about: Node.js<br><br>📫 How to reach me: ismailtahari52@gmail.com
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:FF5722&height=200&section=header&text=Ismail%20Tahari&fontSize=56&fontColor=ffffff&animation=fadeIn" width="100%" alt="header banner" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ismail Tahari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailtahari_s.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-tahari-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32141573) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ismailTahariDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismailtahari52@gmail.com) 
+<a href="https://github.com/ismailtahari52">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=750&lines=Founder+%40+MerxSoft;Building+QuilPOS+-+POS%2FERP+for+Algerian+merchants;Electron+-+Next.js+-+Node.js+-+TypeScript" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ismailtahari52&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ismailtahari52&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtahari52&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Dev.ismailtahari)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dev.ismailtahari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailtahari)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@dev.ismailtahari)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UCyOBmcX-oHdJKV2hRGtQgww)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailtahari52@gmail.com)
+
+</div>
+
+<br/>
+
+## 💫 About Me
+
+Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **MerxSoft**, dedicated to complex system architecture and scalable enterprise solutions. I specialize in designing and developing robust ERP software, e-commerce platforms, and advanced retail management tools — including **QuilPOS**, my POS/ERP platform built for Algerian merchants. My expertise lies in architecting reliable backend infrastructures, engineering efficient data-synchronization strategies, and building high-performance platforms that streamline business operations.
+
+<br/>
+
+## 🚀 Featured Project — QuilPOS
+
+> POS/ERP desktop & mobile platform for Algerian merchants, built under MerxSoft.
+
+- **Cross-platform** — Electron (Windows) + Capacitor (Android), sharing one Next.js core
+- **Hardware Abstraction Layer** for thermal printers, barcode scanners, cash drawers & scales
+- **Delta sync** via a custom REST API (`/api/v1/sync`) backed by `better-sqlite3` on-device
+- **Multi-tenant** architecture with row-level `tenant_id` scoping and JWT-embedded claims
+
+🔗 **[quilvexo.com](https://quilvexo.com)**
+
+<br/>
+
+## 💻 Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,go&theme=dark" alt="languages" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,materialui,threejs&theme=dark" alt="frontend" />
+
+**Backend & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,electron&theme=dark" alt="backend" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" alt="databases" />
+
+**Cloud & Hosting**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,gcp,heroku,netlify,vercel,nginx&theme=dark" alt="cloud & hosting" />
+
+**DevOps & Testing**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,jest,vitest,npm&theme=dark" alt="devops & testing" />
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" alt="design" />
+
+**Also working with**
+<br/>
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=ismailtahari52&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&icon_color=FF5722" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismailtahari52&layout=compact&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&langs_count=8" width="38%" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ismailtahari52&theme=dark&hide_border=true&background=00000000&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" width="90%" alt="GitHub streak stats" />
+
+</div>
+
+<!--
+  NOTE on private commits:
+  count_private=true only reflects private activity if the API instance
+  serving the card has access to it. The shared shion.dev instance above
+  can't see your private repos, so this flag is effectively a no-op here
+  unless you self-host github-readme-stats with your own PAT.
+  See the chat reply for the documented way to get private activity to
+  actually show up (profile setting + the snake graph below), and what
+  self-hosting would take for the stats card specifically.
+-->
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<!-- This image goes live after you add .github/workflows/snake.yml and it runs once — see chat reply. -->
+
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ismailtahari52&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ismailtahari52&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ismailtahari52&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=ismailtahari52&icon=0&color=FF5722&style=flat-square)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:FF5722&height=100&section=footer&animation=fadeIn" width="100%" alt="footer banner" />
+
+</div>
