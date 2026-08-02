@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:FF5722&height=200&section=header&text=Ismail%20Tahari&fontSize=56&fontColor=ffffff&animation=fadeIn" width="100%" alt="header banner" />
 
 <a href="https://github.com/ismailtahari52">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=750&lines=Founder+%40+MerxSoft;Building+QuilPOS+-+POS%2FERP+for+Algerian+merchants;Electron+-+Next.js+-+Node.js+-+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=750&lines=Founder+%40+Quilvexo Soft;Building+QuilPOS+-+POS%2FERP+for+Algerian+merchants;Electron+-+Next.js+-+Node.js+-+TypeScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,13 +21,13 @@
 
 ## 💫 About Me
 
-Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **MerxSoft**, dedicated to complex system architecture and scalable enterprise solutions. I specialize in designing and developing robust ERP software, e-commerce platforms, and advanced retail management tools — including **QuilPOS**, my POS/ERP platform built for Algerian merchants. My expertise lies in architecting reliable backend infrastructures, engineering efficient data-synchronization strategies, and building high-performance platforms that streamline business operations.
+Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **Quilvexo Soft**, dedicated to complex system architecture and scalable enterprise solutions. I specialize in designing and developing robust ERP software, e-commerce platforms, and advanced retail management tools — including **QuilPOS**, my POS/ERP platform built for Algerian merchants. My expertise lies in architecting reliable backend infrastructures, engineering efficient data-synchronization strategies, and building high-performance platforms that streamline business operations.
 
 <br/>
 
 ## 🚀 Featured Project — QuilPOS
 
-> POS/ERP desktop & mobile platform for Algerian merchants, built under MerxSoft.
+> POS/ERP desktop & mobile platform for Algerian merchants, built under Quilvexo Soft.
 
 - **Cross-platform** — Electron (Windows) + Capacitor (Android), sharing one Next.js core
 - **Hardware Abstraction Layer** for thermal printers, barcode scanners, cash drawers & scales
