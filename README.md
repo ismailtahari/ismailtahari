@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:FF5722&height=200&section=header&text=Ismail%20Tahari&fontSize=56&fontColor=ffffff&animation=fadeIn" width="100%" alt="header banner" />
 
-<a href="https://github.com/ismailtahari52">
+<a href="https://github.com/ismailtahari">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=750&lines=Founder+%40+Quilvexo;Building+QuilPOS+-+POS%2FERP+for+Algerian+merchants;Electron+-+Next.js+-+Node.js+-+TypeScript" alt="Typing SVG" />
 </a>
 
@@ -86,12 +86,12 @@ Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **Qu
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ismailtahari52&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&icon_color=FF5722" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismailtahari52&layout=compact&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&langs_count=8" width="38%" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=ismailtahari&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&icon_color=FF5722" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismailtahari&layout=compact&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=FF5722&langs_count=8" width="38%" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ismailtahari52&theme=dark&hide_border=true&background=00000000&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" width="90%" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=ismailtahari&theme=dark&hide_border=true&background=00000000&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" width="90%" alt="GitHub streak stats" />
 
 </div>
 
@@ -111,9 +111,9 @@ Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **Qu
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ismailtahari52/ismailtahari52/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailtahari/ismailtahari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailtahari/ismailtahari/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ismailtahari/ismailtahari/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <!-- This image goes live after you add .github/workflows/snake.yml and it runs once — see chat reply. -->
@@ -123,14 +123,14 @@ Hi, I'm **Ismail Tahari** — a junior software engineer and the founder of **Qu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ismailtahari52&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ismailtahari&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=ismailtahari52&icon=0&color=FF5722&style=flat-square)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ismailtahari&icon=0&color=FF5722&style=flat-square)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:FF5722&height=100&section=footer&animation=fadeIn" width="100%" alt="footer banner" />
 
